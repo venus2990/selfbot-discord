@@ -1,1 +1,2 @@
-# selfbot-discord
+Varma self bot 
+Credit - Exeter
